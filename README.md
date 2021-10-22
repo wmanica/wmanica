@@ -6,9 +6,18 @@ Join me in my quest against all those villains that responds to the name of “n
 
 Are you in need of an alien from the planet Portugal 🇵🇹 to fight with great skills, towards your  project? Then I am the Full Stack Developer you are looking for.
 
-
 ### ⚠️ DISCLAIMERS ⚠️
 
 🌃 Currently living in the Metropolis of Warsaw.
 
 ❎ No kryptonite equivalent known.
+
+<br>
+
+### CATCH ME
+
+<a href="https://www.linkedin.com/in/waltermanica/">
+  <img align="left" alt="linkedIN" width="22px" src="https://github.com/wmanica/wmanica/blob/master/blob/linkedin.svg" />
+</a>
+
+![Visitors counter](https://visitor-badge.glitch.me/badge?page_id=wmanica.wmanica)
