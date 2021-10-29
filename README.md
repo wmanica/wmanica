@@ -1,4 +1,4 @@
-![Super Software Engineer header image](https://github.com/wmanica/wmanica/blob/master/blob/header.gif?raw=true)
+![Super Software Engineer header image](https://github.com/wmanica/wmanica/blob/master/blob/header.mp4?raw=true)
 
 Look, up in the sky 🏙, it's a bird 🐦? It's a plane ✈️? No, it's the Super Software Engineer 🦸‍♂️ ! 
 
