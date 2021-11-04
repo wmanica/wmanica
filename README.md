@@ -8,9 +8,9 @@ Are you in need of an alien from the planet Portugal 🇵🇹 to fight with grea
 
 ### ⚠️ DISCLAIMERS ⚠️
 
-🌃 Currently living in the Metropolis of Warsaw.
+🌃  Currently living in the Metropolis of Warsaw.
 
-❎ No kryptonite equivalent known.
+❎  No kryptonite equivalent known.
 
 <br>
 
