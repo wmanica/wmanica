@@ -1,6 +1,6 @@
 ![Super Software Engineer header image](https://github.com/wmanica/wmanica/blob/master/blob/header.gif)
 
-Look, up in the sky 🏙, it's a bird 🐦? It's a plane ✈️? No, it's the Super Software Engineer 🦸‍♂️ ! 
+Look, up in the sky 🏙, it's a bird 🐦? It's a plane ✈️ ? No, it's the Super Software Engineer 🦸‍♂️ ! 
 
 Join me in my quest against all those villains that responds to the name of “not working" and "unreadable code”.
 
