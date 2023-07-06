@@ -20,4 +20,6 @@ Are you in need of an alien from the planet Portugal 🇵🇹 to fight with grea
   <img align="left" alt="linkedIN" width="22px" src="https://github.com/wmanica/wmanica/blob/master/blob/linkedin.svg" />
 </a>
 
-![Visitors counter](https://komarev.com/ghpvc/?username=wmanica)
+<br><br>
+
+![Visitors counter](https://komarev.com/ghpvc/?username=wmanica&color=4287f5&label=+KRYPTONINANS+VISITS)
